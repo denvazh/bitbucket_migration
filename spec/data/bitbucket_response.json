@@ -1,0 +1,125 @@
+{
+  "pagelen": 10,
+  "values": [
+    {
+      "scm": "git",
+      "has_wiki": false,
+      "description": "Creative Factory Seminar 2013 Class Materials",
+      "links": {
+        "watchers": {
+          "href": "https://bitbucket.org/!api/2.0/repositories/denis_vazhenin/cfs2013/watchers"
+        },
+        "commits": {
+          "href": "https://bitbucket.org/!api/2.0/repositories/denis_vazhenin/cfs2013/commits"
+        },
+        "self": {
+          "href": "https://bitbucket.org/!api/2.0/repositories/denis_vazhenin/cfs2013"
+        },
+        "html": {
+          "href": "https://bitbucket.org/denis_vazhenin/cfs2013"
+        },
+        "avatar": {
+          "href": "https://d3oaxc4q5k2d6q.cloudfront.net/m/e0f0cee6c478/img/language-avatars/java_16.png"
+        },
+        "forks": {
+          "href": "https://bitbucket.org/!api/2.0/repositories/denis_vazhenin/cfs2013/forks"
+        },
+        "clone": [
+          {
+            "href": "https://bitbucket.org/denis_vazhenin/cfs2013.git",
+            "name": "https"
+          },
+          {
+            "href": "ssh://git@bitbucket.org/denis_vazhenin/cfs2013.git",
+            "name": "ssh"
+          }
+        ],
+        "pullrequests": {
+          "href": "https://bitbucket.org/!api/2.0/repositories/denis_vazhenin/cfs2013/pullrequests"
+        }
+      },
+      "fork_policy": "allow_forks",
+      "language": "java",
+      "created_on": "2013-12-03T02:31:38.549442+00:00",
+      "full_name": "denis_vazhenin/cfs2013",
+      "has_issues": false,
+      "owner": {
+        "username": "denis_vazhenin",
+        "display_name": "Denis  Vazhenin",
+        "links": {
+          "self": {
+            "href": "https://bitbucket.org/!api/2.0/users/denis_vazhenin"
+          },
+          "avatar": {
+            "href": "https://bitbucket-assetroot.s3.amazonaws.com/c/photos/2013/Oct/15/denis_vazhenin-avatar-3797905098-10_avatar.png"
+          }
+        }
+      },
+      "updated_on": "2014-03-02T14:45:01.413396+00:00",
+      "size": 279877,
+      "is_private": false,
+      "name": "cfs2013"
+    },
+    {
+      "scm": "git",
+      "has_wiki": false,
+      "description": "",
+      "links": {
+        "watchers": {
+          "href": "https://bitbucket.org/!api/2.0/repositories/denis_vazhenin/domain_sync/watchers"
+        },
+        "commits": {
+          "href": "https://bitbucket.org/!api/2.0/repositories/denis_vazhenin/domain_sync/commits"
+        },
+        "self": {
+          "href": "https://bitbucket.org/!api/2.0/repositories/denis_vazhenin/domain_sync"
+        },
+        "html": {
+          "href": "https://bitbucket.org/denis_vazhenin/domain_sync"
+        },
+        "avatar": {
+          "href": "https://d3oaxc4q5k2d6q.cloudfront.net/m/e0f0cee6c478/img/language-avatars/ruby_16.png"
+        },
+        "forks": {
+          "href": "https://bitbucket.org/!api/2.0/repositories/denis_vazhenin/domain_sync/forks"
+        },
+        "clone": [
+          {
+            "href": "https://bitbucket.org/denis_vazhenin/domain_sync.git",
+            "name": "https"
+          },
+          {
+            "href": "ssh://git@bitbucket.org/denis_vazhenin/domain_sync.git",
+            "name": "ssh"
+          }
+        ],
+        "pullrequests": {
+          "href": "https://bitbucket.org/!api/2.0/repositories/denis_vazhenin/domain_sync/pullrequests"
+        }
+      },
+      "fork_policy": "allow_forks",
+      "language": "ruby",
+      "created_on": "2013-12-16T12:35:39.710097+00:00",
+      "full_name": "denis_vazhenin/domain_sync",
+      "has_issues": false,
+      "owner": {
+        "username": "denis_vazhenin",
+        "display_name": "Denis  Vazhenin",
+        "links": {
+          "self": {
+            "href": "https://bitbucket.org/!api/2.0/users/denis_vazhenin"
+          },
+          "avatar": {
+            "href": "https://bitbucket-assetroot.s3.amazonaws.com/c/photos/2013/Oct/15/denis_vazhenin-avatar-3797905098-10_avatar.png"
+          }
+        }
+      },
+      "updated_on": "2014-03-02T14:44:09.779836+00:00",
+      "size": 164708,
+      "is_private": false,
+      "name": "domain_sync"
+    }
+  ],
+  "page": 1,
+  "size": 2
+}

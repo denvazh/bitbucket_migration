@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+# This is command line interface to bitbucket_migration
+
+require 'bitbucket_migration'
+
+BitbucketMigration.run!(ARGV)
